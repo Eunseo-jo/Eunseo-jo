@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Instagram-5851DB?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://velog.io/@Katie">
+    <a href="https://velog.io/@jkatie1027">
       <img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
   </div>
