@@ -26,6 +26,18 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white">
+     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white">
+     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
+     &nbsp;&nbsp;
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
+     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white">
+     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
