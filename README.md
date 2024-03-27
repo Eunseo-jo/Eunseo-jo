@@ -1,20 +1,32 @@
 <div align="center">
-  <h2>Hello I am Eunseo Jo✨</h2>
-  <h4> 🎓University of Minnesota-twin cities Computer Science undergraduate 22</h3>
+
+## Hello I am Eunseo Jo✨
+
+### 🎓University of Minnesota-twin cities Computer Science undergraduate 22'</h3>
+
+💌 Email: [eunseo2731@gmail.com](mailto:eunseo2731@gmail.com)
+
+👩‍💻 Resume: [https://eunseo-jo.vercel.app/](https://eunseo-jo.vercel.app/)
+
+🌱 Portfolio: [https://eunseo-jo.vercel.app/portfolio](https://eunseo-jo.vercel.app/portfolio)
+
+📄 velog: [https://velog.io/@jkatie1027](https://velog.io/@jkatie1027)
+
   <br>
-  <a href="mailto:eunseo2731@gmail.com">💌 Contact : eunseo2731@gmail.com</a>
-  <br><br>
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <a href="https://www.instagram.com/katieee__j/">
-      <img src="https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://velog.io/@jkatie1027">
-      <img src="https://img.shields.io/badge/Velog-1DBF73?style=for-the-badge&logo=Velog&logoColor=white"/>
-    </a>
-  </div>
+
+## 🚀 Projects
+
+|                                  이름                                  |                 소개                  |      기간      |
+| :--------------------------------------------------------------------: | :-----------------------------------: | :------------: |
+|     [Connection](https://github.com/Eunseo-jo/connection-frontend)     |      댄서와 수강생 매칭 서비스🎶      | 23.09 ~ 진행중 |
+| [Connection-Health](https://github.com/Eunseo-jo/prompterday-frontend) | 개인 맞춤형 AI 건강 관리 어시스턴트💊 |     23.08      |
+|    [Notion Cloning](https://github.com/Eunseo-jo/Notion_VanillaJS)     |   VanillaJS를 활용한 노션 클로닝📃    |    2023.07     |
+|           [MO:A](https://github.com/Eunseo-jo/MOA-Frontend)            |    프로젝트 구인 및 관리 서비스🗓️     | 23.03 ~ 23.05  |
+
   <br>
-  <h2>📚 Skills</h2>
+  
+## 📚 Skills
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     &nbsp;&nbsp;
@@ -71,4 +83,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunseo-jo&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
   </div>
-</div> 
+</div>
