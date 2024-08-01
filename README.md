@@ -10,7 +10,7 @@
 
 🌱 Portfolio: [https://eunseo-jo.vercel.app/portfolio](https://eunseo-jo.vercel.app/portfolio)
 
-📄 velog: [https://velog.io/@jkatie1027](https://velog.io/@jkatie1027)
+📄 velog: [https://velog.io/@eunseo-jo](https://velog.io/@eunseo-jo/posts)
 
   <br>
 
