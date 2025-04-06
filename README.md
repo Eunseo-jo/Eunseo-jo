@@ -18,7 +18,7 @@
 
 |                                  이름                                  |                 소개                  |      기간      |
 | :--------------------------------------------------------------------: | :-----------------------------------: | :------------: |
-|     [Connection](https://github.com/Eunseo-jo/connection-frontend)     |      댄서와 수강생 매칭 서비스🎶      | 23.09 ~ 진행중 |
+|     [Connection](https://github.com/Eunseo-jo/connection-frontend)     |      댄서와 수강생 매칭 서비스🎶      | 23.09 ~ 24.04 |
 | [Connection-Health](https://github.com/Eunseo-jo/prompterday-frontend) | 개인 맞춤형 AI 건강 관리 어시스턴트💊 |     23.08      |
 |    [Notion Cloning](https://github.com/Eunseo-jo/Notion_VanillaJS)     |   VanillaJS를 활용한 노션 클로닝📃    |    2023.07     |
 |           [MO:A](https://github.com/Eunseo-jo/MOA-Frontend)            |    프로젝트 구인 및 관리 서비스🗓️     | 23.03 ~ 23.05  |
@@ -43,6 +43,8 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
      &nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
      &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
